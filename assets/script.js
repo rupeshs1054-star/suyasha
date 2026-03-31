@@ -1,12 +1,12 @@
 const slidesData = [
     {
         image: "assets/images/165129-2560x1440-desktop-hd-jaguar-cars-wallpaper.jpg",
-        title: "Sleek Aerodynamics",
+        title: "Sleek Aerodynamics!!!!!!!!!!!",
         text: "Experience the ultimate combination of luxury and power. This magnificent Jaguar car blends aerodynamic design with heart-pounding horsepower, a true marvel of modern engineering."
     },
     {
         image: "assets/images/165129-2560x1440-desktop-hd-jaguar-cars-wallpaper.jpg",
-        title: "Unbridled Power",
+        title: "Unbridled Power!!!!!!",
         text: "The road bends to your will. With aggressive styling and unmatched grace, every mile becomes a story of unbridled passion and mechanical perfection."
     },
     {
